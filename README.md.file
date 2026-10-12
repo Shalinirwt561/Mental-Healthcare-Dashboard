@@ -1,0 +1,47 @@
+# Mental Health & Workplace Well-being Analysis | Power BI
+
+## Project Overview
+This project presents an interactive Power BI dashboard designed to analyze mental health trends and workplace well-being. It explores treatment patterns, demographic distributions, and workplace-related factors to support data-driven understanding of mental health.
+
+## Objectives
+- Analyze mental health trends across different demographic groups.
+- Examine the percentage of respondents seeking mental health treatment.
+- Explore workplace-related factors associated with mental health.
+- Present key findings through interactive visualizations and KPIs.
+
+## Tools & Technologies
+- **Power BI** — Dashboard development and data visualization
+- **DAX** — KPI calculations and measures
+- **Power Query** — Data cleaning and transformation
+- **Data Visualization** — Charts, cards, slicers, and interactive reports
+
+## Key KPIs & Analysis
+- Total respondents
+- Treatment rate (%)
+- Respondent demographics
+- Mental health patterns across workplace and demographic categories
+
+*Note: Include only the KPIs and analyses that are actually present in the dashboard.*
+
+## Dashboard Features
+- Interactive slicers for filtering data
+- KPI cards for quick summaries
+- Charts for comparing mental health patterns
+- Percentage-based measures for treatment analysis
+- Multiple report pages, if applicable
+
+## Key Insights
+
+- **Family History by Gender:** Female respondents reported a higher prevalence of family history of mental health conditions than male respondents.
+- **Monthly Treatment Trend:** August recorded the highest number of respondents reporting mental health treatment among the months analyzed.
+
+## Files Included
+- Power BI dashboard file (.pbix)
+- Dashboard screenshots (.png)
+- Project documentation (README.md)
+
+## Conclusion
+This project demonstrates practical skills in Power BI, DAX, data visualization, and analytical storytelling. It showcases how data can be transformed into an interactive report for exploring mental health and workplace well-being.
+
+## Disclaimer
+The dashboard is intended for exploratory and educational analysis. Observed patterns should not be interpreted as proof of causation or as medical advice.
